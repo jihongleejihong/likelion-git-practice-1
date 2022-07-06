@@ -2,4 +2,6 @@
 
 ## Git practice
 
-conflict 1
+conflict2
+
+
