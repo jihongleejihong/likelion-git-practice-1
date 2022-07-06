@@ -2,5 +2,4 @@
 
 ## Git practice
 
-### a;lskdfj;alsdkfj
-asd;lkfja;sldkj
+conflict2
